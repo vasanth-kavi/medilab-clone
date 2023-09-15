@@ -6,6 +6,7 @@
 .top{
     height: 32px;
     background: #023b6d;
+    display:none;
 }
 .name{
 
